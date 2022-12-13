@@ -116,7 +116,9 @@
     <header class="header">
       <h1>Mr. Pintu Patra</h1>
       </header>
- 
+ <span>
+		<img src="images/ly94o9.jpg" alt="" width="100">
+	</span>
     <footer class="footer">&copy; Copyright Mr. Pintu Patra</footer>
   </div>
 </body>
