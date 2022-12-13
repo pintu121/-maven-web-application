@@ -146,9 +146,9 @@
           <th>SKILL 3</th>
         </tr>
         <tr>
-          <td><i class="fas fa-broom"></i></td>
-          <td><i class="fas fa-archive"></i></td>
-          <td><i class="fas fa-trailer"></i></td>
+          <td><i class="fas fa-broom"</i></td>
+          <td><i class="fas fa-archive"</i></td>
+          <td><i class="fas fa-trailer"</i></td>
         </tr>
         <tr>
           <td>Cleaning kaktus in your backyard</td>
