@@ -158,8 +158,8 @@
         <tr>
       </table>
       <form>
-        <label>Email: Pintuwap@outlook.com<input type="text" name="email"></label><br>
-        <label> Mobile: 9337721170 <input type="text" name="mobile"> </label><br>
+        <label>Email: <input type="text" name="email"></label><br>
+        <label> Mobile: <input type="text" name="mobile"> </label><br>
         <textarea name="comments" rows="4">Enter your message</textarea><br>
         <input type="submit" value="Submit" /><br>
       </form>
