@@ -122,7 +122,7 @@
       </div>
     </header>
     <aside class="left">
-      <img src="./images/mithunlogo.jpg" width="160px" />
+      <img src="./images/ly94o9.jpg" width="160px" />
       <ul>
         <li><a class="active" href="#home">Home</a></li>
         <li><a href="#career">Career</a></li>
