@@ -21,8 +21,8 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://15.207.84.153:9000/</sonar.host.url>
-                <sonar.login>squ_90b7e9b9c903464c094f353a87d23198390460aa</sonar.login>
+		<sonar.host.url>http://3.110.161.76:9000//</sonar.host.url>
+                <sonar.login>squ_9677dd73d2ef7dcaaa3f11ed22df5faae799c8e0</sonar.login>
 	
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Pintuwap Releases Nexus Repository</name>
-	      <url>http://172.31.39.80:8081/repository/maven-releases/</url>
+	      <url>http://43.204.103.189:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Pintuwap Snapshot Nexus Repository </name>
-	      <url>http://172.31.39.80:8081/repository/maven-snapshots/</url>
+	      <url>http://43.204.103.189:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
